@@ -11,7 +11,7 @@
 2. Установите Composer зависимости – `composer install`
 
 ### Конфигурация
-1. Скопируйте "example" конфиг – `cp .env.example`
+1. Скопируйте "example" конфиг – `cp .env.example .env`
 2. Установите нужные значения в параметры
    - `DB_DATABASE`
    - `DB_USERNAME`
